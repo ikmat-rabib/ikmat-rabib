@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikmat-rabib
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning CSS & JS
+- 🌱 I’m currently learning CSS, JS, React
 - 💞️ I’m looking to collaborate on ... n/a
 - 📫 How to reach me ...
 
